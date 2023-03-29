@@ -3,7 +3,7 @@ pipeline
     agent any
     environment {
         AUTHOR = "pragra"
-        class = "devops"
+        team = "devops"
         batch = "Jan23"
     }
     stages {
